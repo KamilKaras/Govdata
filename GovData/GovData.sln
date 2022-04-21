@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E9D38651-D5DA-427C-A52B-93C00441460B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjektCSV", "..\..\..\..\..\Kurs_IT\Projekty\CSVTool\ProjektCSV\ProjektCSV.csproj", "{986A60D2-E30F-4429-94D6-A92EFBF01704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D38651-D5DA-427C-A52B-93C00441460B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D38651-D5DA-427C-A52B-93C00441460B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D38651-D5DA-427C-A52B-93C00441460B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D38651-D5DA-427C-A52B-93C00441460B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986A60D2-E30F-4429-94D6-A92EFBF01704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986A60D2-E30F-4429-94D6-A92EFBF01704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986A60D2-E30F-4429-94D6-A92EFBF01704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986A60D2-E30F-4429-94D6-A92EFBF01704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F67B441-A287-4608-A220-C0C0F7E98BF3}
+	EndGlobalSection
+EndGlobal
